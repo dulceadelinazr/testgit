@@ -1,0 +1,6 @@
+#git ls-files --others --exclude-from=.git/info/eclude
+#For a project mostly in C the following would be a good set of
+#exclude patterns (uncomment
+#*.[oa]
+# *~ // un comentario que aparecia en info/exlude
+/venv/
